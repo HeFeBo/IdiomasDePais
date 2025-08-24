@@ -1,0 +1,37 @@
+# Archivos privados de NetBeans (no necesarios para compilar) 
+nbproject/private/
+
+# Archivos de compilación generados automáticamente
+/build/
+/dist/
+/out/
+
+# Archivos temporales y binarios 
+*.class
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Archivos del sistema operativo 
+.DS_Store
+Thumbs.db
+
+# Configuración de otros IDEs 
+*.iml
+.idea/
+.vscode/
+
+# Archivos empaquetados 
+*.jar
+*.war
+*.ear
+
+# Archivos de dependencia (si usás Maven o Gradle) 
+target/
+.gradle/
+build/
+
+#Archivos de recursos
+src/config.properties
+
